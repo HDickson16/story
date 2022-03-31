@@ -1,0 +1,103 @@
+@charset "UTF-8";
+p {
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 200;
+}
+h2 {
+    text-align: center;
+    color: #B7B7B7;
+}
+body, html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #000000;
+    background-color: #000000;
+}
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+.pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6, .pimg6 {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #F9F9F9;
+}
+
+.pimg1 {
+	color: #FFFFFF
+}
+header {
+    background-image: url(../images/header.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+    width: 1278px;
+    height: 373px;
+}
+h2 {
+    color: #750D0E;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-decoration: none;
+    letter-spacing: 3px;
+    word-spacing: 0px;
+}
+
+.pimg2 {
+    background-image: url("../art/art1.jpg");
+    background-position: -1px -131px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+
+.pimg3 {
+    background-image: url("../art/art6.jpg");
+    color: #000000;
+    }
+header {
+    width: auto;
+    height: auto;
+}
+
+.pimg4 {
+	background-image: url("../art/art2.jpg");
+    background-size: cover;
+    background-position: 8px -563px;
+    color: #000000;
+}
+
+.pimg5 {
+	
+}
+
+.pimg6 {
+    background-position: -2px 51%;
+    color: #000000;
+    background-image: url("../art/art3.jpg");
+    text-align: center;
+}
+
+.pimg7 {
+	background-image: url("../art/art5.jpg");
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	}
+
+.pimg8 {
+color: #FFFFFF
+}
